@@ -1,0 +1,156 @@
+Uri: https://chai.ml/
+File Name: C:\Downloaded Web Sites\chai.ml\index.htm
+Content Type: text/html
+
+Uri: https://chai.ml/dev/
+File Name: C:\Downloaded Web Sites\chai.ml\dev\index.htm
+Content Type: text/html
+
+Uri: https://chai.ml/images/appstore.png
+File Name: C:\Downloaded Web Sites\chai.ml\images\appstore.png
+Content Type: image/png
+
+Uri: https://chai.ml/images/favicon.ico
+File Name: C:\Downloaded Web Sites\chai.ml\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://chai.ml/images/googleplay.png
+File Name: C:\Downloaded Web Sites\chai.ml\images\googleplay.png
+Content Type: image/png
+
+Uri: https://chai.ml/images/leaderboard.png
+File Name: C:\Downloaded Web Sites\chai.ml\images\leaderboard.png
+Content Type: image/png
+
+Uri: https://chai.ml/js/plugins.js
+File Name: C:\Downloaded Web Sites\chai.ml\js\plugins.js
+Content Type: text/javascript
+
+Uri: https://chai.ml/privacy/
+File Name: C:\Downloaded Web Sites\chai.ml\privacy\index.htm
+Content Type: text/html
+
+Uri: https://chai.ml/_next/static/chunks/29107295.837a9d12c8e416b71c1b.js
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\chunks\29107295.837a9d12c8e416b71c1b.js
+Content Type: text/javascript
+
+Uri: https://chai.ml/_next/static/chunks/75fc9c18.60c1ab7504f6eb9ff2f2.js
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\chunks\75fc9c18.60c1ab7504f6eb9ff2f2.js
+Content Type: text/javascript
+
+Uri: https://chai.ml/_next/static/chunks/cb1608f2.ebe81bd496abb910797d.js
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\chunks\cb1608f2.ebe81bd496abb910797d.js
+Content Type: text/javascript
+
+Uri: https://chai.ml/_next/static/chunks/commons.5dd77e7acc883abc18c0.js
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\chunks\commons.5dd77e7acc883abc18c0.js
+Content Type: text/javascript
+
+Uri: https://chai.ml/_next/static/chunks/d91e9ae9.3d0fc347d9380a728ebb.js
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\chunks\d91e9ae9.3d0fc347d9380a728ebb.js
+Content Type: text/javascript
+
+Uri: https://chai.ml/_next/static/chunks/ff239f9d.6cb927541beeb7711788.js
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\chunks\ff239f9d.6cb927541beeb7711788.js
+Content Type: text/javascript
+
+Uri: https://chai.ml/_next/static/chunks/framework.da6e78c416fe44b6a1a8.js
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\chunks\framework.da6e78c416fe44b6a1a8.js
+Content Type: text/javascript
+
+Uri: https://chai.ml/_next/static/chunks/main-85184f872533cca48b5c.js
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\chunks\main-85184f872533cca48b5c.js
+Content Type: text/javascript
+
+Uri: https://chai.ml/_next/static/chunks/pages/[[...slug]]-670207c11f4e2949ad5b.js
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\chunks\pages\[[...slug]]-670207c11f4e2949ad5b.js
+Content Type: text/javascript
+
+Uri: https://chai.ml/_next/static/chunks/pages/_app-77a5e6e0b8b63b946a72.js
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\chunks\pages\_app-77a5e6e0b8b63b946a72.js
+Content Type: text/javascript
+
+Uri: https://chai.ml/_next/static/chunks/polyfills-ff94e68042added27a93.js
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\chunks\polyfills-ff94e68042added27a93.js
+Content Type: text/javascript
+
+Uri: https://chai.ml/_next/static/chunks/webpack-50bee04d1dc61f8adf5b.js
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\chunks\webpack-50bee04d1dc61f8adf5b.js
+Content Type: text/javascript
+
+Uri: https://chai.ml/_next/static/css/7fe20d4611f6bced498c.css
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\css\7fe20d4611f6bced498c.css
+Content Type: text/css
+
+Uri: https://chai.ml/_next/static/kjpWlOmYKGOAMGeay2cXq/_buildManifest.js
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\kjpWlOmYKGOAMGeay2cXq\_buildManifest.js
+Content Type: text/javascript
+
+Uri: https://chai.ml/_next/static/kjpWlOmYKGOAMGeay2cXq/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\chai.ml\_next\static\kjpWlOmYKGOAMGeay2cXq\_ssgManifest.js
+Content Type: text/javascript
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2
+File Name: C:\Downloaded Web Sites\chai.ml\s\lato\v23\S6u8w4BMUTPHjxsAUi-qNiXg7eU0.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2
+File Name: C:\Downloaded Web Sites\chai.ml\s\lato\v23\S6u8w4BMUTPHjxsAXC-qNiXg7Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxswWA.woff
+File Name: C:\Downloaded Web Sites\chai.ml\s\lato\v23\S6u8w4BMUTPHjxswWA.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVeww.woff
+File Name: C:\Downloaded Web Sites\chai.ml\s\lato\v23\S6u9w4BMUTPHh6UVeww.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2
+File Name: C:\Downloaded Web Sites\chai.ml\s\lato\v23\S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2
+File Name: C:\Downloaded Web Sites\chai.ml\s\lato\v23\S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wXiWtFCc.woff2
+File Name: C:\Downloaded Web Sites\chai.ml\s\lato\v23\S6uyw4BMUTPHjx4wXiWtFCc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2
+File Name: C:\Downloaded Web Sites\chai.ml\s\lato\v23\S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHvxo.woff
+File Name: C:\Downloaded Web Sites\chai.ml\s\lato\v23\S6uyw4BMUTPHvxo.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI5wqPHw.woff
+File Name: C:\Downloaded Web Sites\chai.ml\s\lato\v23\S6u_w4BMUTPHjxsI5wqPHw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2
+File Name: C:\Downloaded Web Sites\chai.ml\s\lato\v23\S6u_w4BMUTPHjxsI5wq_FQftx9897sxZ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2
+File Name: C:\Downloaded Web Sites\chai.ml\s\lato\v23\S6u_w4BMUTPHjxsI5wq_Gwftx9897g.woff2
+Content Type: font/woff2
+
+Uri: https://i.pinimg.com/originals/12/93/b9/1293b94a2d5a05eedfcc241479a73c9a.jpg
+File Name: C:\Downloaded Web Sites\chai.ml\originals\12\93\b9\1293b94a2d5a05eedfcc241479a73c9a.jpg
+Content Type: image/jpeg
+
+Uri: https://image.shutterstock.com/image-photo/female-teacher-sitting-computer-desk-260nw-1250966671.jpg
+File Name: C:\Downloaded Web Sites\chai.ml\image-photo\female-teacher-sitting-computer-desk-260nw-1250966671.jpg
+Content Type: image/jpeg
+
+Uri: https://pm1.narvii.com/7846/d120ddbb0556ceaae2ac498cb6ff580d1fff01ebr1-1080-1143v2_hq.jpg
+File Name: C:\Downloaded Web Sites\chai.ml\7846\d120ddbb0556ceaae2ac498cb6ff580d1fff01ebr1-1080-1143v2_hq.jpg
+Content Type: image/jpeg
+
+Uri: https://th.bing.com/th/id/OIP.2O7BhL1kw4Ejz6decT91OAHaJQ?pid=ImgDet&rs=1
+File Name: C:\Downloaded Web Sites\chai.ml\th\id\OIP.2O7BhL1kw4Ejz6decT91OAHaJQ
+Content Type: image/jpeg
+
